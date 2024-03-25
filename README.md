@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen Thi Nhu Quynh 👋
 ## I am looking for a new opportunities to expand my knowledge and skills.
-[linkedin](www.linkedin.com/in/nguyen-thi-nhu-quynh-91a618280)
+[linkedin](https://www.linkedin.com/in/nguyen-thi-nhu-quynh-91a618280/)
 
 <!--
 **ntnqu/ntnqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
